@@ -1,0 +1,10 @@
+F:\code3\WxControl\WxControl\bin\Debug\WxControl.exe.config
+F:\code3\WxControl\WxControl\bin\Debug\WxControl.exe
+F:\code3\WxControl\WxControl\bin\Debug\WxControl.pdb
+F:\code3\WxControl\WxControl\obj\x86\Debug\WxControl.FrmMain.resources
+F:\code3\WxControl\WxControl\obj\x86\Debug\WxControl.Properties.Resources.resources
+F:\code3\WxControl\WxControl\obj\x86\Debug\WxControl.csproj.GenerateResource.Cache
+F:\code3\WxControl\WxControl\obj\x86\Debug\WxControl.exe
+F:\code3\WxControl\WxControl\obj\x86\Debug\WxControl.pdb
+F:\code3\WxControl\WxControl\obj\x86\Debug\WxControl.csprojResolveAssemblyReference.cache
+F:\code3\WxControl\WxControl\obj\x86\Debug\WxControl.Controls.PhoneControl.resources
