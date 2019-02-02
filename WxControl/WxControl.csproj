@@ -60,6 +60,12 @@
     <Compile Include="Controls\PhoneControl.Designer.cs">
       <DependentUpon>PhoneControl.cs</DependentUpon>
     </Compile>
+    <Compile Include="Controls\SudokuControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\SudokuControl.Designer.cs">
+      <DependentUpon>SudokuControl.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -70,6 +76,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Controls\PhoneControl.resx">
       <DependentUpon>PhoneControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\SudokuControl.resx">
+      <DependentUpon>SudokuControl.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
@@ -100,6 +109,8 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="img\smartphone_iphone.png" />
+    <None Include="Resources\brightness.png" />
+    <None Include="img\friend.png" />
     <Content Include="tab_icon_iphone.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

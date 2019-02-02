@@ -63,6 +63,26 @@ namespace WxControl.Properties {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
+        internal static System.Drawing.Bitmap brightness {
+            get {
+                object obj = ResourceManager.GetObject("brightness", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Bitmap friend {
+            get {
+                object obj = ResourceManager.GetObject("friend", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
         internal static System.Drawing.Bitmap smartphone_iphone {
             get {
                 object obj = ResourceManager.GetObject("smartphone_iphone", resourceCulture);
